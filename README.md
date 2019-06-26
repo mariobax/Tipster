@@ -15,17 +15,19 @@ The following **required** functionality is complete:
 
 The following **optional** features are implemented:
 
-* [x] Nothing
+* [x] Add beautiful color theme.
+* [x] Add relevant loading screen.
+* [x] Add aniamtion of labels on main view controller.
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://g.recordit.co/ytITcaMBpx.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://g.recordit.co/zWYIZVdVlo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Notes
 
-No challenges encountered!
+A challenge I encountered was getting the Settings part to work. I did not realize there was a walkthrough online on how to do it an tried to implement it myself.
 
 ## Credits
 
